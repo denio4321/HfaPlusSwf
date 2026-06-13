@@ -1,0 +1,4 @@
+# Los .swf se versionan a propósito (son la distribución), no se ignoran.
+*.tmp
+Thumbs.db
+.DS_Store
