@@ -135,7 +135,7 @@ vez que los usas** en cada sesión. Úsalos bajo tu responsabilidad.
 | `:boost` | Paquete: quality low (UI 2D) + throttle de ratón + caché HTTP |
 | `:fps [1-999]` · `:unlockfps` | Capar / desbloquear FPS (capar reduce CPU y churn) |
 | `:quality [low/medium/high/best]` | Calidad de render 2D (no afecta a la sala, que va en CPU) |
-| `:mousefix [0-10]` | Limitar eventos de ratón por frame |
+| `:mousefix [0-10]` | Limita eventos de ratón por frame. **`1` = mejor rendimiento** (1/frame es lo único visible; descarta el resto de un ratón de alta frecuencia). `0` = off. Efecto secundario: imperceptible (hover/drag se actualizan 1×/frame) |
 | `:fpsmeter` · `:lagspikes` · `:bench [seg]` | Monitor de FPS / log de tirones / benchmark A/B |
 | `:gc` | Forzar recolección de basura (úsalo solo para probar) |
 
