@@ -24,17 +24,6 @@ https://raw.githubusercontent.com/denio4321/HfaPlusSwf/main/versions/<versión>/
 https://raw.githubusercontent.com/denio4321/HfaPlusSwf/main/latest/HabboAir.swf
 ```
 
-## Cómo se generan / publican
-
-Los SWF de este repo los genera `HfaPlus build`: parchea el SWF oficial y publica el resultado
-en esta carpeta automáticamente.
-
-```
-dotnet run --project HabboSuite/HfaPlus -- build --sdk <AIR SDK> --verify
-```
-
-Para no publicar (solo dejar el SWF en `%APPDATA%`): añade `--no-publish`.
-
 ---
 
 Repo: <https://github.com/denio4321/HfaPlusSwf>
