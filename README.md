@@ -1,7 +1,7 @@
 # HfaPlusSwf
 
 Repositorio público de **distribución de clientes HFA** — el `HabboAir.swf` oficial de Habbo
-parcheado por [HfaPlus](https://github.com/denio4321) (hooks + customs de HFA).
+parcheado (hooks + customs de HFA).
 
 El launcher HFA (fuente **AIR_HFA**) descarga desde aquí el cliente ya parcheado, **por versión**,
 replicando el mecanismo de descarga de AirPlus (en lugar de exigir un build local).
