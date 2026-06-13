@@ -1,12 +1,21 @@
 {
   "repo": "https://github.com/denio4321/HfaPlusSwf",
-  "latest": "5",
+  "latest": {
+    "version": "5",
+    "build": 1,
+    "swfVersion": "5-b1",
+    "updated": "2026-06-13T14:24:10Z"
+  },
   "versions": [
     {
       "version": "5",
+      "build": 1,
+      "swfVersion": "5-b1",
+      "officialVersion": "5",
       "file": "versions/5/HabboAir.swf",
       "size": 10883506,
-      "updated": "2026-06-13T11:54:07Z"
+      "sha256": "53b731398fa60eeb67e23ae6c900684f8dd46f9bacf42513285b91c2b32a294f",
+      "updated": "2026-06-13T14:24:10Z"
     }
   ]
 }
